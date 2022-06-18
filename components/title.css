@@ -1,8 +1,7 @@
-.titulo-nome h1{
-    color: rgb(0, 255, 221) ;
+.box h1{
+    color: #6cb9f4 ;
     text-shadow:5px 5px 1px black; 
-    margin-top: 60px;
-    margin-bottom: 15px;
+
 }
 
 h1{
@@ -10,5 +9,6 @@ h1{
     font-family: "Press Start 2P",  sans-serif;
     color: white ;
     text-shadow:5px 5px 1px black; 
+
 
 }

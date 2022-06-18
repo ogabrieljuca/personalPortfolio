@@ -49,35 +49,16 @@
 
  }
 
- .titulo {
+ .box-section {
 
     background-image: url(https://images.unsplash.com/photo-1654964150054-d79f08ffe556?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
     background-repeat: repeat;
 
  }
 
- .titulo-nome{
-    background-color:#3A4042;
-    display: inline-block;
-    width: 627px;
-    height: 184px;
-    margin-top: 150px;
-    margin-left: 91px;
-    border-radius: 3px;
-    box-shadow: 5px 5px 1px black;
-    text-align: center;
-    margin-bottom: 497px;
 
 
-   
-    
-   
- }
-
-
-
-
- .button-banner {
+ .button-box {
     display: inline-block;
     background-color: #218df1;
     height: 60px;
@@ -90,7 +71,7 @@
 
  }
 
- .button-banner:hover {
+ .button-box:hover {
     transform: scale(1.08) ;
     color:#218df1 ;
     background-color: white;
