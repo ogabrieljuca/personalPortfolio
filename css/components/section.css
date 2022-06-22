@@ -5,7 +5,12 @@
 
 }
 
+
 .section h2{
     text-align: center;
     
 }  
+
+.section .main-title-second{
+    margin-bottom: 60px;
+}
