@@ -20,5 +20,17 @@
 }
 
 .section.-bdFirst{
-    border-color:10px solid #F25A70 ;
+    border-bottom:10px solid #F25A70 ;
 }
+
+.section.-bgPurple{
+    background-color: #7C5E99;
+}
+
+.section.-bdSecond{
+    border-bottom:10px solid black ;
+}
+
+
+
+
