@@ -1,12 +1,13 @@
 .main-footer{
-
-
     display: flex ;
     background-color: #000;
+    color: #fff;
     justify-content: center;
     padding-top: 20px;
-    padding-bottom: 38px;
-    flex-wrap: wrap;
+    padding-bottom: 60px;
+    position: relative;
+
+
 }
 
 .action{
@@ -16,9 +17,11 @@
     width: 10px;
 }
 
-.credits{
 
-   color: #fff;
-
+.credit {
+    margin-top: 20px;
+    display: flex;
+    position: absolute;
 }
+
 
