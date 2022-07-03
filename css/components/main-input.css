@@ -9,3 +9,7 @@
     font-family: 'Poppins';
 
 }
+
+.main-input.-textarea{
+    height: 250px;
+}
