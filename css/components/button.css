@@ -7,6 +7,7 @@
     padding-right: 20px;
     box-shadow: 5px 5px 1px black;
     transition: transform 150ms linear ;
+    cursor: pointer;
 
 }
 
@@ -19,4 +20,9 @@
 
 .button.-full{
     width: 100%;
+}
+
+.button.-full:hover{
+    transform: scale(1.0);
+
 }
